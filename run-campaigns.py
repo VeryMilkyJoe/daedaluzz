@@ -36,7 +36,7 @@ maze_id_end = 5
 rnd_seed_start = 0
 rnd_seed_end = 8
 cores_start = 1
-cores_end = 41
+cores_end = 16
 memory_limit = 32000
 # We have compiled each contract to get its creation bytecode (using solc 0.8.19+commit.7dd6d404 with 200 optimizer runs).
 maze_code = dict(
@@ -80,6 +80,7 @@ def process_all_tasks(tasks):
             if proc is None:
                 all_done = False
                 if len(free_cores) < 1:
+                    print('goto sleep')
                     time.sleep(5)
                     continue
                 core_id = free_cores.pop()
@@ -193,6 +194,7 @@ def process_all_tasks(tasks):
                     in_file.write(fuzzer_input)
                     in_file.flush()
                     in_file.seek(0)
+                    print(exe)
                     proc = subprocess.Popen(
                         exe,
                         stdin=in_file,
@@ -206,6 +208,7 @@ def process_all_tasks(tasks):
                         or fuzzer_name == "hybrid-echidna"
                         or fuzzer_name == "ityfuzz"
                 ):
+                    print(exe)
                     proc = subprocess.Popen(
                         " ".join(exe),
                         stdout=out_file,
@@ -356,6 +359,7 @@ def write_output_file(tasks):
 
 
 try:
+    print(tasks)
     process_all_tasks(tasks)
 finally:
     for task in tasks:
