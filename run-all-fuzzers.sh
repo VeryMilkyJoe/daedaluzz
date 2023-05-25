@@ -22,6 +22,6 @@ docker build --rm -t "hybrid-echidna:v0.0.2" -f Dockerfile.optik .
 # cd ..
 # python3 run-campaigns.py --fuzzer-name harvey
 python3 run-campaigns.py --fuzzer-name echidna
-#python3 run-campaigns.py --fuzzer-name foundry
+python3 run-campaigns.py --fuzzer-name foundry
 python3 run-campaigns.py --fuzzer-name hybrid-echidna
-python3 run-campaigns.py --fuzzer-name ityfuzz
+#python3 run-campaigns.py --fuzzer-name ityfuzz

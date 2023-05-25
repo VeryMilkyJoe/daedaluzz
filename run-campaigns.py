@@ -31,12 +31,12 @@ elif fuzzer_name == "ityfuzz":
     docker_image = "fuzzland/ityfuzz:v0.0.1"
 time_limit = 28800
 include_raw_output = False
-maze_id_start = 0
+maze_id_start = 4
 maze_id_end = 5
 rnd_seed_start = 0
 rnd_seed_end = 8
 cores_start = 1
-cores_end = 16
+cores_end = 64
 memory_limit = 32000
 # We have compiled each contract to get its creation bytecode (using solc 0.8.19+commit.7dd6d404 with 200 optimizer runs).
 maze_code = dict(

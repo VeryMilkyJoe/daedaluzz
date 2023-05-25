@@ -1,0 +1,282 @@
+[
+    {
+        "duration": 125117248281,
+        "program": "maze-0.sol",
+        "random-seed": 0,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125117430250,
+        "program": "maze-0.sol",
+        "random-seed": 1,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125117238231,
+        "program": "maze-0.sol",
+        "random-seed": 2,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125117085052,
+        "program": "maze-0.sol",
+        "random-seed": 3,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125116923192,
+        "program": "maze-0.sol",
+        "random-seed": 4,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125116750893,
+        "program": "maze-0.sol",
+        "random-seed": 5,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125116627754,
+        "program": "maze-0.sol",
+        "random-seed": 6,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125116444195,
+        "program": "maze-0.sol",
+        "random-seed": 7,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125116269545,
+        "program": "maze-1.sol",
+        "random-seed": 0,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125116018486,
+        "program": "maze-1.sol",
+        "random-seed": 1,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125115786127,
+        "program": "maze-1.sol",
+        "random-seed": 2,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125115549619,
+        "program": "maze-1.sol",
+        "random-seed": 3,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125115319829,
+        "program": "maze-1.sol",
+        "random-seed": 4,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125115050441,
+        "program": "maze-1.sol",
+        "random-seed": 5,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 125114702782,
+        "program": "maze-1.sol",
+        "random-seed": 6,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50052928001,
+        "program": "maze-1.sol",
+        "random-seed": 7,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50052627281,
+        "program": "maze-2.sol",
+        "random-seed": 0,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50052377413,
+        "program": "maze-2.sol",
+        "random-seed": 1,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50052092064,
+        "program": "maze-2.sol",
+        "random-seed": 2,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50051940395,
+        "program": "maze-2.sol",
+        "random-seed": 3,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50051688676,
+        "program": "maze-2.sol",
+        "random-seed": 4,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50051363117,
+        "program": "maze-2.sol",
+        "random-seed": 5,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50051036059,
+        "program": "maze-2.sol",
+        "random-seed": 6,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50050626921,
+        "program": "maze-2.sol",
+        "random-seed": 7,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50050305692,
+        "program": "maze-3.sol",
+        "random-seed": 0,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50049490256,
+        "program": "maze-3.sol",
+        "random-seed": 1,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50049190718,
+        "program": "maze-3.sol",
+        "random-seed": 2,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50048872208,
+        "program": "maze-3.sol",
+        "random-seed": 3,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50048603320,
+        "program": "maze-3.sol",
+        "random-seed": 4,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 50048178651,
+        "program": "maze-3.sol",
+        "random-seed": 5,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 91099384,
+        "program": "maze-3.sol",
+        "random-seed": 6,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 89980770,
+        "program": "maze-3.sol",
+        "random-seed": 7,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 89968010,
+        "program": "maze-4.sol",
+        "random-seed": 0,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 89541761,
+        "program": "maze-4.sol",
+        "random-seed": 1,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 98835490,
+        "program": "maze-4.sol",
+        "random-seed": 2,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 100397083,
+        "program": "maze-4.sol",
+        "random-seed": 3,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 88233828,
+        "program": "maze-4.sol",
+        "random-seed": 4,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 97866134,
+        "program": "maze-4.sol",
+        "random-seed": 5,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 81218859,
+        "program": "maze-4.sol",
+        "random-seed": 6,
+        "tool": "echidna",
+        "violations": {}
+    },
+    {
+        "duration": 98511172,
+        "program": "maze-4.sol",
+        "random-seed": 7,
+        "tool": "echidna",
+        "violations": {}
+    }
+]
