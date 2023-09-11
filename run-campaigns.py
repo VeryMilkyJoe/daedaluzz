@@ -31,7 +31,7 @@ elif fuzzer_name == "ityfuzz":
     docker_image = "fuzzland/ityfuzz:v0.0.1"
 time_limit = 28800
 include_raw_output = False
-maze_id_start = 4
+maze_id_start = 0
 maze_id_end = 5
 rnd_seed_start = 0
 rnd_seed_end = 8
